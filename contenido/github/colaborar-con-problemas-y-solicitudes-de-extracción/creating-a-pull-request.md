@@ -35,15 +35,7 @@ When you change any of the information in the branch range, the Commit and Files
 
 **Tips**:
 - Using the compare view, you can set up comparisons across any timeframe. For more information, see "[Comparing commits](/github/committing-changes-to-your-project/comparing-commits)."
-- Project maintainers can add a pull request template for a repository. Templates include prompts for information in the body of a pull request. For more information, see "[About issue and pull request templates](/articles/about-issue-and-pull-request-templates)."
-
-{% endtip %}
-
-### Creating the pull request
-
-{% tip %}
-
-**Tip**: You can also use {% data variables.product.prodname_desktop %} to create a pull request. For more information, see “[Creating an issue or pull request](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)" in the {% data variables.product.prodname_desktop %} documentation.
+- Project maintainers can add a pull request template for a repository. Templates include prompts for information in the body of a pull request. For more information, see "[About issue and pull request templates](/articles/about-issue-and-pull-request-templ %} to create a pull request. For more information, see “[Creating an issue or pull request](/desktop/contributing-to-projects/creating-an-issue-or-pull-request)" in the {% data variables.product.prodname_desktop %} documentation.
 
 {% endtip %}
 
